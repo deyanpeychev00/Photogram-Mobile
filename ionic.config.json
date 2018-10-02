@@ -1,0 +1,7 @@
+{
+  "name": "Photogram-Mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
